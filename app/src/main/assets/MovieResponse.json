@@ -1,0 +1,114 @@
+﻿{
+	"movies": [
+		{
+			"movieId": 635302,
+			"title": "Demon Slayer the Movie: Mugen Train (2020)",
+			"genres": "Animation, Action, Adventure, Fantasy, Drama",
+			"releaseTime": "01/06/2021 (ID)",
+			"duration": "1h 57m",
+			"description": "Tanjirō Kamado, joined with Inosuke Hashibira, a boy raised by boars who wears a boar's head, and Zenitsu Agatsuma, a scared boy who reveals his true power when he sleeps, boards the Infinity Train on a new mission with the Fire Hashira, Kyōjurō Rengoku, to defeat a demon who has been tormenting the people and killing the demon slayers who oppose it!",
+			"imagePath": "https://www.themoviedb.org/t/p/w220_and_h330_face/h8Rb9gBr48ODIwYUttZNYeMWeUU.jpg",
+			"favorited": false
+		},
+		{
+			"movieId": 378064,
+			"title": "A Silent Voice: The Movie (2016)",
+			"genres": "Animation, Drama, Romance",
+			"releaseTime": "09/17/2016 (JP)",
+			"duration": "2h 10m",
+			"description": "Shouya Ishida starts bullying the new girl in class, Shouko Nishimiya, because she is deaf. But as the teasing continues, the rest of the class starts to turn on Shouya for his lack of compassion. When they leave elementary school, Shouko and Shouya do not speak to each other again... until an older, wiser Shouya, tormented by his past behaviour, decides he must see Shouko once more. He wants to atone for his sins, but is it already too late...?",
+			"imagePath": "https://www.themoviedb.org/t/p/w220_and_h330_face/tuFaWiqX0TXoWu7DGNcmX3UW7sT.jpg",
+			"favorited": false
+		},
+		{
+			"movieId": 372058,
+			"title": "Your Name. (2016)",
+			"genres": "Romance, Animation, Drama",
+			"releaseTime": "08/26/2016 (JP)",
+			"duration": "1h 46m",
+			"description": "High schoolers Mitsuha and Taki are complete strangers living separate lives. But one night, they suddenly switch places. Mitsuha wakes up in Taki’s body, and he in hers. This bizarre occurrence continues to happen randomly, and the two must adjust their lives around each other.",
+			"imagePath": "https://www.themoviedb.org/t/p/w220_and_h330_face/q719jXXEzOoYaps6babgKnONONX.jpg",
+			"favorited": false
+		},
+		{
+			"movieId": 62450,
+			"title": "I Want to Eat Your Pancreas (2018)",
+			"genres": "Animation, Drama, Romance, Family",
+			"releaseTime": "09/01/2018 (JP)",
+			"duration": "1h 48m",
+			"description": "Spring time in April and the last of the cherry blossoms are still in bloom. The usually aloof bookworm with no interest in others comes across a book in a hospital waiting room. Handwritten on the cover are the words: \"Living with Dying.\" He soon discovers that it is a diary kept by his very popular and genuinely cheerful classmate, Sakura Yamauchi, who reveals to him that she is secretly suffering from a pancreatic illness and only has a limited time left. It is at this moment that she gains just one more person to share her secret. Trying to maintain a normal life as much as possible, Sakura is determined to live her life to the fullest until the very last day. As her free spirit and unpredictable actions throw him for a loop, his heart begins to gradually change.",
+			"imagePath": "https://www.themoviedb.org/t/p/w220_and_h330_face/vHdVU0HyyB6k6kuYt8qjwTz9one.jpg",
+			"favorited": false
+		},
+		{
+			"movieId": 802699,
+			"title": "The Girl from the Other Side (2022)",
+			"genres": "Animation, Drama, Mystery, Fantasy",
+			"releaseTime": "03/10/2022 (JP)",
+			"duration": "24m",
+			"description": "Once upon a time, in a far, faraway place, there were two lands. The world was divided into an inner land and an outer land. People feared the outer land, inhabited by eerie beings, the carriers of curse. \nOne day, on the border to the inner land inhabited by humans, one such being finds a girl on heaps of abandoned dead bodies.The girl says her name is Shiva and shows affection to the \"being\" who found her, calling him \"Teacher.\"\nThis is a story of two people—one human, one inhuman—who linger in the hazy twilight that separates night from day.",
+			"imagePath": "https://www.themoviedb.org/t/p/w220_and_h330_face/rxu2MgncYDe6CGSASAwIaC4SHbR.jpg",
+			"favorited": false
+		},
+		{
+			"movieId": 528225,
+			"title": "Sound! Euphonium the Movie - Our Promise: A Brand New Day (2019)",
+			"genres": "Animation, Drama",
+			"releaseTime": "04/19/2019 (JP)",
+			"duration": "1h 40m",
+			"description": "Kumiko is now a second year and one of the senior players of the euphonium section. With new underclassmen joining the concert band, Kumiko will have to learn new things in order to deal with awkward and difficult underclassmen. She and third-year trumpeter Tomoe Kabe have been chosen to lead the new underclassmen members. Among the new members to Kumiko's bass section are euphonist Kanade Hisaishi, whose appearances are deceiving; tuba player Mirei Suzuki, who cannot adapt to her new environment; tuba player Satsuki Suzuki, who wants to get along with Mirei; and double bassist Motomu Tsukinaga, who cannot talk about himself. Between the Sunrise Festival, chair placement auditions, and the competition, a number of problems quickly begin to arise.",
+			"imagePath": "https://www.themoviedb.org/t/p/w220_and_h330_face/azIvdBzPlFUkY5TCFhgXcUZLq5f.jpg",
+			"favorited": false
+		},
+		{
+			"movieId": 482150,
+			"title": "Liz and the Blue Bird (2018)",
+			"genres": "Animation, Drama, Music",
+			"releaseTime": "04/21/2018 (JP)",
+			"duration": "1h 30m",
+			"description": "Two girls grow closer as they practice for their last duet before graduating, a piece called \"Liz And The Blue Bird\".",
+			"imagePath": "https://www.themoviedb.org/t/p/w220_and_h330_face/7xRIkqWJy4cNpUxPo5aZ24O0Tyx.jpg",
+			"favorited": false
+		},
+		{
+			"movieId": 412383,
+			"title": "Fleet Girls Collection KanColle Movie Sequence (2016)",
+			"genres": "Animation, Science Fiction, War, Action",
+			"releaseTime": "11/26/2016 (JP)",
+			"duration": "1h 33m",
+			"description": "The staff at the \"Dai-Ni-Kai 'KanColle' Kankanshiki\" event in Yokohama in August 2015 announced that the Kantai Collection franchise will get an anime film in 2016. The event screened footage that features the Kan-musume characters Fubuki, Mutsuki, Yuudachi, Akagi and Kaga, Hiryuu Kaini and Souryuu Kaini, the four Kongou sisters (Kaini), Kitakami and Ooi, Choukai Kaini, Yuubari, Mutsu and Nagato, Kako Kaini and Furutaka Kaini, Zuikaku and Shoukaku, Shimakaze, Kuma, and Ouyodo.",
+			"imagePath": "https://www.themoviedb.org/t/p/w220_and_h330_face/grjoz79lPmeljxxipUgE8mzvXIG.jpg",
+			"favorited": false
+		},
+		{
+			"movieId": 615165,
+			"title": "Her Blue Sky (2019)",
+			"genres": "Animation, Romance",
+			"releaseTime": "03/11/2020 (ID)",
+			"duration": "1h 30m",
+			"description": "High school student Aoi lives with her elder sister, Akane, after a tragic accident took their parents away 13 years ago. Because Akane has since been taking care of her single-handedly, Aoi wants to move to Tokyo after her graduation to relieve her sister's burden and pursue a musical career, inspired by Akane's ex-boyfriend Shinnosuke \"Shinno\" Kanamuro. Shinno was part of a band until he left for Tokyo to become a professional bassist after the sisters' parents passed away. One afternoon, while Aoi practices her guitar in a guest house, she gets startled by the 18-year-old version of Shinno from 13 years ago! As if by coincidence, the current 31-year-old Shinno also returns to the town, but he has changed drastically. There are now two Shinno's in existence, but why is the Shinno from the past present? The story revolves around these four individuals as they confront their inner feelings toward each other and make decisions that will affect their lives from here on out.",
+			"imagePath": "https://www.themoviedb.org/t/p/w220_and_h330_face/c4hBgtsekgjeB4ywfhWkDjb5sh2.jpg",
+			"favorited": false
+		},
+		{
+			"movieId": 58107,
+			"title": "Black★Rock Shooter (2010)",
+			"genres": "Drama, Animation, Fantasy",
+			"releaseTime": "07/07/2010 (JP)",
+			"duration": "52m",
+			"description": "The story of two girls bound in friendship, as well as Black Rock Star's struggle unfolding in another world. But when the two worlds come together... what will happen?",
+			"imagePath": "https://www.themoviedb.org/t/p/w220_and_h330_face/tc2I5OQqDr13WF178I3C0rCX9iu.jpg",
+			"favorited": false
+		},
+		{
+			"movieId": 533514,
+			"title": "Violet Evergarden: The Movie (2020)",
+			"genres": "Animation, Drama, Romance, Fantasy",
+			"releaseTime": "03/03/2021 (ID)",
+			"duration": "2h 20m",
+			"description": "After working as an Auto Memory Doll, Violet Evergarden has come to learn the meaning of the words \"I love you.\" Her soul, which has been deeply scarred by the war, has begun to heal. She continues to move forward in life, helping others in need, while keeping the words of the first person who ever said \"I love you\" to her close to her heart. When she takes on a job to write a letter for a terminally-ill boy, time starts to move forward.",
+			"imagePath": "https://www.themoviedb.org/t/p/w220_and_h330_face/fwSonK8WrAEqWY7sqjvGRCgzIij.jpg",
+			"favorited": false
+		}
+	]
+}
